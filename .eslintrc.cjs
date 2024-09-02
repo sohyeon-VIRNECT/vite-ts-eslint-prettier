@@ -26,5 +26,8 @@ module.exports = {
         devDependencies: ['vite.config.ts'],
       },
     ],
+    'no-plusplus': 'off',
+    'prefer-destructuring': 'off',
+    'default-case': 'off',
   },
 }
